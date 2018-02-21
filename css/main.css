@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+
+#mainContainer
+{
+  width: 940px;
+  margin: 0 auto;
+}
+svg {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+h2, span
+{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p
+{
+  line-height: 30px;
+  text-align: left;
+
+}
+
+section
+{
+  margin-top: 30px;
+}
+.expand
+{
+	-webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+	transition: all 0.5s linear;
+}
+.expand:hover
+{
+	-webkit-transform: scale(2);
+	transform: scale(2);
+}
+
+#moveIcon:hover #circle  {
+  stroke: red;
+  box-shadow: 10px 10px 10px 10px;
+}
+
+#moveIcon:hover #arrow .cls-1{
+  fill: black;
+}
+
+
+#noteIcon:hover #pad{
+  fill: black;
+}
+
+#noteIcon:hover #rims .cls-2{
+  fill: grey;
+}
+
+
+#soundIcon:hover #random .cls-1{
+  fill: purple;
+}
+
+#mobileIcon:hover #frame{
+  fill: grey;
+  stroke: black;
+}
+
+#mobileIcon:hover #screen{
+  fill: black;
+}
+
+#mobileIcon:hover #button .cls-2{
+  fill: yellow;
+}
+
+#trashIcon:hover #body{
+  fill: darkgrey;
+}
+
+#trashIcon:hover #head .cls-3{
+  fill: darkgrey;
+}
+
+#powerIcon:hover #powerBody{
+  fill: silver;
+  stroke: silver;
+}
+
+#powerIcon:hover #stick{
+  fill: red;
+  stroke: red;
+}
+
+#markIcon:hover #markBody{
+  fill: yellow;
+}
+
+#markIcon:hover #markDetail{
+  fill: black;
+}
+
+#dateIcon:hover #dateBody{
+  fill: black;
+}
+
+#dateIcon:hover #numberIcon{
+  fill: red;
+}
+
+#videoIcon:hover #videoBody{
+  fill: lightblue;
+
+}
+
+#videoIcon:hover #videoDetail .cls-2{
+  fill: lightgrey;
+}
+
+#batIcon:hover #batteryBody{
+  fill: darkgrey;
+}
+
+#batIcon:hover #batteryDetail{
+  fill: lightgreen;
+}

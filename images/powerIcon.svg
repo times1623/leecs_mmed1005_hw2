@@ -1,0 +1,14 @@
+<svg id="powerIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246.1 301.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccb;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>powerIcon</title>
+  <path id="powerBody" class="cls-1" d="M361.81,283.07v22.34A101.31,101.31,0,1,1,267,307.53V284.75a122.54,122.54,0,1,0,94.77-1.68Z" transform="translate(-193.38 -218.33)"/>
+  <rect id="stick" class="cls-1" x="104.06" y="0.5" width="33.99" height="167.23" rx="12" ry="12"/>
+</svg>
