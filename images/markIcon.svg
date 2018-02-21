@@ -1,0 +1,16 @@
+<svg id="markIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268.1 276.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>markIcon</title>
+  <polygon id="markBody" class="cls-1" points="266.58 191.19 266.46 192.79 268.1 191.29 92.78 0 0 85.03 175.32 276.32 179.28 184.9 266.58 191.19"/>
+  <circle id="markDetail" class="cls-2" cx="80.63" cy="75.09" r="24.18"/>
+</svg>

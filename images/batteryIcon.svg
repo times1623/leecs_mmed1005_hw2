@@ -1,0 +1,16 @@
+<svg id="batteryIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 438.56 171.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>batteryIcon</title>
+  <polygon id="batteryBody" class="cls-1" points="438.56 28.11 401.96 28.11 401.96 0 0 0 0 171.9 401.96 171.9 401.96 130.72 438.56 130.72 438.56 28.11"/>
+  <rect id="batteryDetail" class="cls-2" x="18.95" y="18.95" width="368.63" height="128.76"/>
+</svg>
